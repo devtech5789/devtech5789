@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ###
 
 **About Me:**  
-- 🌱 I’m currently learning .NET & Azure
-- 💬 Ask me about .NET & Azure
+- 🌱 I’m currently learning Azure, Flutter, Marketing
+- 💬 Ask me about MERN stack, MEAN stack, Python/Django, Laravel/Vue, Scraping, Docker
 - 🎶 Hobbies/Interests: I love memes and listening to different kinds of music
 <br>
 
