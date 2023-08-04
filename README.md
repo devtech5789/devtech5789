@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nadeerakuruppu/" target="_blank">
+  <a href="[https://www.linkedin.com/in/nadeerakuruppu/](https://www.linkedin.com/in/nemanja-anicic-a12613233/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/lucifer955" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/lucifer955" target="_blank">
+  <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/14561188/zacknight95" target="_blank">
+  <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="https://medium.com/@nadeerahashan95" target="_blank">
+  <a href="https://medium.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
   </a>
 </div>
